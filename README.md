@@ -7,5 +7,6 @@ Are you tired of asking about movie recommendation to your friends.
 <br>
 Okay then.. 
 Your search for movie recomendation ends here.
+Thank You.
 
 ### We recomended the best movies according to your taste.
