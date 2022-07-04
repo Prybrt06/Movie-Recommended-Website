@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 10000px;
+}
+
+.header_div{
+    background-color: red;
+    height: 981px;
+    border-bottom-left-radius: 400px;
+    border-bottom-right-radius: 400px;
+}
+
+.header_sub_div1{
+    background-color: aqua;
+    height: 259px;
+}
+
+.header_sub_div2{
+    background-color: blueviolet;
+    height: 259px;
+}
+
+.header_sub_div3{
+    background-color: aqua;
+    height: 259px;
+}
+
+.header_sub_div4{
+    background-color: blueviolet;
+    height: 204px;
+    border-bottom-left-radius: 700px;
+    border-bottom-right-radius: 700px;
+}
