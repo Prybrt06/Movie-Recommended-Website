@@ -6,7 +6,9 @@
 }
 
 .header_div{
-    background-color: red;
+    z-index: 55;
+    background-color: black;
+    overflow: hidden;
     height: 981px;
     border-bottom-left-radius: 400px;
     border-bottom-right-radius: 400px;
@@ -14,8 +16,8 @@
 
 .moviePreviewImage{
     overflow: hidden;
+    background-color: black;
     opacity: 30%;
-    background-color: brown;
     width: 180px;
     height: 259px;
 }

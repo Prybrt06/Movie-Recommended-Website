@@ -1,7 +1,7 @@
 .oneLiner
 {
     z-index: 99;
-    top: 287.85px;
+    top: 153.85px;
     left: 435px;
     position: absolute;
     background-color: transparent;
@@ -13,8 +13,8 @@
 .secondOneLiner
 {
     z-index: 99;
-    top: 616.85px;
-    left: 435px;
+    top: 425.85px;
+    left: 433px;
     position: absolute;
     background-color: transparent;
     color: whitesmoke;
@@ -37,7 +37,7 @@
 
 .exploreButtonDiv{
     z-index: 99;
-    top: 916.85px;
+    top: 759.85px;
     left: 660px;
     position: absolute;
     background-color: transparent;
@@ -55,10 +55,11 @@
 
 .exploreButtonDiv:hover{
     z-index: 99;
-    top: 909.35px;
+    top: 752.35px;
     left: 630px;
     position: absolute;
     background-color: transparent;
+    border-radius: 30px;
     height: 45px;
     width: 180px;
 }
@@ -109,7 +110,7 @@
     z-index: 99;
     position: absolute;
     left: 1200px;
-    top: 1843.75px;
+    top: 1805.75px;
 }
 
 .minionSitDivImage{
