@@ -43,6 +43,8 @@
     background-color: transparent;
     height: 30px;
     width: 120px;
+    transition: height 0.9s;
+    transition: width 0.9s;
 }
 
 .exploreButton{
@@ -51,6 +53,8 @@
     border-radius: 20px;
     width: 120px;
     height: 30px;
+    cursor: pointer;
+    transition: background-color 0.2s;
 }
 
 .exploreButtonDiv:hover{
