@@ -74,7 +74,7 @@
 }
 
 .backgroundImage{
-    opacity: 30%;
+    opacity: 65%;
     width: 100vw;
 }
 
@@ -109,8 +109,8 @@
     background-color: transparent;
     z-index: 99;
     position: absolute;
-    left: 1200px;
-    top: 1805.75px;
+    left: 1115px;
+    top: 1515.75px;
 }
 
 .minionSitDivImage{
