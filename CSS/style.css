@@ -43,8 +43,6 @@
     background-color: transparent;
     height: 30px;
     width: 120px;
-    transition: height 0.9s;
-    transition: width 0.9s;
 }
 
 .exploreButton{
