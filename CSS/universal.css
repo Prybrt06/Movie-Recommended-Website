@@ -1,0 +1,27 @@
+*{
+    z-index: -999;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.header_div{
+    z-index: 55;
+    background-color: black;
+    overflow: hidden;
+    height: 981px;
+    border-bottom-left-radius: 400px;
+    border-bottom-right-radius: 400px;
+}
+
+.moviePreviewImage{
+    overflow: hidden;
+    background-color: black;
+    opacity: 30%;
+    width: 180px;
+    height: 259px;
+}
+
+.header_sub_div{
+    height: 259px;
+}
